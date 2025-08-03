@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/ahmednashat98" target="blank"><img src="https://img.shields.io/twitter/follow/ahmednashat98?logo=twitter&style=for-the-badge" alt="ahmednashat98" /></a> </p>
 
-- 🌱 I’m currently **Software Quality Engineer**
+- 🌱 I’m currently **Software Quality Engineer At Oracle Company**
 
 - 💬 Ask me about **Manual testing ,Automation testing**
 
