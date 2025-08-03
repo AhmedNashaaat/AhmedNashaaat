@@ -1,6 +1,6 @@
 [![MasterHead](https://blog.openreplay.com/1ed3f9e8efd90188567f869a4170ef97/image1.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Ahmed Nashaat</h1>
-<h3 align="center">A Software Quality Automation Tester From Egypt</h3>
+<h3 align="center">A Software Quality Engineer From Egypt</h3>
 <img align="right" alt="Coding" width="400" src="https://www.careerguide.com/career/wp-content/uploads/2021/10/Boy-Working-From-Home.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmednashaaat&label=Profile%20views&color=0e75b6&style=flat" alt="ahmednashaaat" /> </p>
